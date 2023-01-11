@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "laravel/framework": "^7.30.3 | ^8.22.1",
+        "laravel/framework": "^7.30.3 | ^8.22.1 | ^9",
         "pda/pheanstalk": "^4.0"
     },
     "require-dev": {
